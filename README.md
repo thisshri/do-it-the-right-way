@@ -1,4 +1,4 @@
-# do-it-the-write-way
+# do-it-the-right-way
 ## Documenteries  to watch 
 
 1. <a href="https://www.youtube.com/watch?v=Gh6N1uPjGno" >Download: The True Story of the Internet E01 Browser Wars</a>
